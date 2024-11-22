@@ -51,7 +51,7 @@ const Header = () => {
         color= {'goldenrod'} 
         variant='h6' 
         component= 'div' 
-        sx={{flexGrow: 1, my:2 , backgroundColor:'yellow'}}>
+        sx={{flexGrow: 1, my:2 , }}>
            <Link to='/'><FastfoodIcon/></Link>
          MY Restaurant
         </Typography>
